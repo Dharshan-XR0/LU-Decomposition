@@ -49,10 +49,9 @@ print(x)
 
 ## Output:
 
-![Ex5CR1](https://user-images.githubusercontent.com/113497491/191962965-5ee703b7-c199-4c84-a79b-6b5ea6909916.png)
 
+![image](https://user-images.githubusercontent.com/113497491/191963197-e5ccd579-3b51-4fca-bd5f-df6b23a24f73.png)
 
-![Ex5CR2](https://user-images.githubusercontent.com/113497491/191962995-b4062c4d-f8cb-4873-b445-8409216805c3.png)
 
 
 
