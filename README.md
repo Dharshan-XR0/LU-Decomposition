@@ -49,7 +49,7 @@ b=eval(input())
 lu,piv=lu_factor(a)
 x=lu_solve((lu,piv),b)
 print(x)
-
+```
 
 ## Output:
 
