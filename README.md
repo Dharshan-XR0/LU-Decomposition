@@ -18,8 +18,9 @@ To write a program to find the LU Decomposition of a matrix.
 4. printf the program
 
 ## Program:
-(i) To find the L and U matrix
 ```
+(i) To find the L and U matrix
+
 /*
 Program to find the L and U matrix.
 Developed by: Dharshan v
@@ -35,9 +36,9 @@ print(L)
 print(U)
 
 ```
-
-(ii) To find the LU Decomposition of a matrix
 ```
+(ii) To find the LU Decomposition of a matrix
+
 /*
 Program to find the LU Decomposition of a matrix.
 Developed by:DHARSHAN V 
