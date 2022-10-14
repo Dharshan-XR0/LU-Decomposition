@@ -27,7 +27,7 @@ Developed by: Dharshan v
 RegisterNumber: 22003103
 */
 ```
-
+```
 import numpy as np
 from scipy.linalg import lu
 a=eval(input())
@@ -44,6 +44,7 @@ Program to find the LU Decomposition of a matrix.
 Developed by:DHARSHAN V 
 RegisterNumber: 22003103
 */
+```
 ```
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
